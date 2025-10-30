@@ -20,6 +20,17 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Team Roles
+For comprehensive project execution, teams may include additional specialized roles:
+- Scrum Master: facilitates agile ceremonies and removes impediments.
+- UX Designer: conducts user research and creates designs.
+- Business Analyst: gathers requirements and bridges business and technical teams.
+- Release Manager: coordinates release activities and deployment.
+- Customer Support Liaison: represents customer needs and prepares support teams.
+- Security Lead: ensures security compliance and conducts reviews.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role definitions.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan

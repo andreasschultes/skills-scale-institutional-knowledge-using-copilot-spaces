@@ -15,6 +15,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Engage UX Designer for design requirements and user flows
+8. Consult Security Lead for security requirements and threat modeling
+9. Work with Business Analyst to validate requirements and acceptance criteria
 
 ## Backlog Item Template
 - Title:
@@ -38,6 +41,10 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
+- [ ] Release timeline and milestones agreed (coordinated with Release Manager if applicable)
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Design requirements and user flows defined (with UX Designer if applicable)
+- [ ] Security requirements identified and documented (with Security Lead if applicable)
+- [ ] Business requirements and acceptance criteria validated (with Business Analyst if applicable)
+- [ ] Customer Support Liaison consulted on supportability and documentation needs
