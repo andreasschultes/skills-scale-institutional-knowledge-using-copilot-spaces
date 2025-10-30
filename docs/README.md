@@ -36,6 +36,17 @@ Our project teams typically include:
 - **QA/Testing**: Validate quality and ensure acceptance criteria are met
 - **Stakeholders**: Provide input, feedback, and approvals throughout the project
 
+Additionally, teams may include specialized roles for comprehensive project execution:
+
+- **Scrum Master**: Facilitates agile ceremonies and removes impediments
+- **UX Designer**: Conducts user research and creates designs
+- **Business Analyst**: Gathers requirements and bridges business and technical teams
+- **Release Manager**: Coordinates release activities and deployment
+- **Customer Support Liaison**: Represents customer needs and prepares support teams
+- **Security Lead**: Ensures security compliance and conducts reviews
+
+For detailed role definitions and cross-role interactions, see [Roles and Personas](octoacme-roles-and-personas.md).
+
 ## Documentation Index
 
 This documentation set includes detailed guides for each stage of the project lifecycle and key process areas:
