@@ -14,15 +14,17 @@ Maintain a simple table with:
 - Status
 
 ## Risk Lifecycle
-- Identify: during planning and ongoing execution
-- Assess: estimate impact and likelihood
+- Identify: during planning and ongoing execution (with input from all team roles)
+- Assess: estimate impact and likelihood (Project Manager coordinates with Security Lead, Business Analyst, and other specialists)
 - Mitigate: reduced via actions, contingency plans
-- Monitor: review at weekly syncs and update status
+- Monitor: review at weekly syncs and update status (Scrum Master tracks team-level risks)
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Customer Support Liaison helps communicate with support teams and customers
+- Release Manager coordinates release communications across teams
 
 ## Communication Templates
 Weekly Status Template:
@@ -39,4 +41,5 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify Security Lead and Security on-call
+- For customer-impacting issues, involve Customer Support Liaison early
